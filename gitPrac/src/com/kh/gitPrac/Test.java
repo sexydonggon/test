@@ -17,6 +17,11 @@ public class Test {
 		System.out.println("abc");
 		System.out.println("abc");
 		System.out.println("abc");
+		System.out.println("zzzz");
+		System.out.println("せせせせ");
+		
+
+
 
 	}
 
